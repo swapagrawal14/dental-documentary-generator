@@ -4,6 +4,13 @@ From ideas, to script, to image prompts to video prompts, all in one place. Copy
 You can use these MD files ( I numbered in sequential manner) right from finding ideas to video prompting etc in any AI chatbot let's say I use Google AI studio. Put first system prompt out there & get the ideas. Then use next System prompt md file for scripting system prompt, then Images json system prompt, video json etc, everything I listed all 4 md files what uh require for such videos, under this Repo. 
 
 
+I prefer you to do or follow my individual system prompting steps manually in any AI chatbot.
+
+Alternatively, i made a dummy prototype ( just for example to show you if you wanna build a generator through which ultimately you can later on download script, copy image prompts, and video prompts for here ) (i don't prefer it coz Ai not implementing lots of stuff altogether )
+
+Here's example I made one prototype 🤎
+https://react-9bgimx.onspace.build
+
 
 🩷For scripting, head over to these Webapp I made to generate voices by pasting scripts you generated
 
